@@ -19,7 +19,7 @@ let resumeData = {
         },
         {
           "name":"whatsapp",
-          "url":"wa.me/5598988033975",
+          "url":"https://api.whatsapp.com/send/?phone=55988033975&text&type=phone_number&app_absent=0",
           "className":"fa fa-phone"
         },
       ],
