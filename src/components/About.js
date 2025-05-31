@@ -22,20 +22,6 @@ export default class About extends Component {
                </p>
 
                <div className="row">
-{/*
-                  <div className="columns contact-details">
-
-                  <h2>Contato</h2>
-                  <p className="address">
-       						<span>{resumeData.name}</span>
-                     <br></br>
-       						   <span>
-                     {resumeData.address}
-                    </span>
-                    <br></br>
-                    <span>{resumeData.website}</span>
-       					   </p>
-                  </div>*/}
                </div>
             </div>
          </div>
