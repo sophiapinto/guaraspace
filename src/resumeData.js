@@ -17,6 +17,11 @@ let resumeData = {
           "url":"https://www.instagram.com/guaraspace/",
           "className":"fa fa-instagram"
         },
+        {
+          "name":"whatsapp",
+          "url":"wa.me/5598988033975",
+          "className":"fa fa-phone"
+        },
       ],
     "aboutme":"A Guará Space é uma Empresa Júnior, associação de direitos civis sem fins lucrativos vinculada à Universidade Federal do Maranhão (UFMA) e ao curso de Engenharia Aeroespacial. A criação da EJ fomenta o desenvolvimento acadêmico e profissional dos membros por meio de projetos e consultorias. Criada em 2023, com início efetivo das atividades em 2024, visando aproximar estudantes do mercado de trabalho e fomentar o empreendedorismo. Sob a orientação do Prof. Dr. Carlos Alberto Rios Brito Júnior, coordenador do curso de engenharia aeroespacial da UFMA, a Guará Space busca o desenvolvimento de projetos e parcerias. Localizada no Núcleo de Empreendedorismo Avançado da UFMA (NAVE).",
     "portfolio":[
