@@ -15,9 +15,9 @@ class App extends Component {
       <div className="App">
         <Header resumeData={resumeData} />
         <About resumeData={resumeData} />
+        <Video videoId="FpZAwp0r7j4" /> {/* Passe o ID do vídeo aqui */}
         {/* <Resume resumeData={resumeData} /> */}
         <Portfolio resumeData={resumeData} />
-        <Video videoId="FpZAwp0r7j4" /> {/* Passe o ID do vídeo aqui */}
         <Testimonials resumeData={resumeData} />
         <ContactUs resumeData={resumeData} />
         <Footer resumeData={resumeData} />

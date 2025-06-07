@@ -11,7 +11,7 @@ const Video = ({ videoId, title = 'ASSISTA AO NOSSO VÍDEO INSTITUCIONAL' }) => 
         textAlign: 'center',
       }}
     >
-      <h2 style={{ marginBottom: '20px', fontSize: '18px', color: '#333', fontFamily: 'opensans-bold, sans serif' }}>
+      <h2 style={{ marginBottom: '20px', fontSize: '18px', letterSpacing: '1px', color: '#333', fontFamily: 'opensans-bold, sans serif' }}>
         {title}
       </h2>
 
