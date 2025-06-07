@@ -639,7 +639,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -789,8 +789,10 @@ call-to-action .button {
 
 #contact {
    background: #191919;
-   padding-top: 96px;
-   padding-bottom: 102px;
+   padding-top: 40px;
+   padding-bottom: 0px;
+   padding-left: 40px;
+   padding-right: 40px;
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }

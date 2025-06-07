@@ -4,11 +4,14 @@ const Video = ({ videoId, title = 'ASSISTA AO NOSSO VÍDEO INSTITUCIONAL' }) => 
   const embedUrl = `https://www.youtube.com/embed/${videoId}`;
 
   return (
+    
     <div
       style={{
         backgroundColor: '#f0f0f0',
-        padding: '0 0 40px 0',
         textAlign: 'center',
+        paddingTop: '40px',
+        paddingLeft: '20px',
+        paddingRight: '20px',
       }}
     >
       <h2 style={{ marginBottom: '20px', fontSize: '18px', letterSpacing: '1px', color: '#333', fontFamily: 'opensans-bold, sans serif' }}>
